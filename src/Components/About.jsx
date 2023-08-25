@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Soy un Ingeniero de Sistemas graduado de la Universidad de Cundinamarca, actualmente, me encuentro trabajando en el desarrollo de un proyecto de gestión empresarial ERP.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Angular",
+  ".NET",
+  "Flutter",
+  "Analista de requerimientos",
+  "Desarrollador de software",
+  "Pruebas y mantenimiento de software",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Me gusta mantenerme actualizado en las últimas tecnologías y actualmente estoy enfocado en aprender Angular, Flutter y .Net SOLIN Además, tengo un gran interés en aprender y aplicar diseño de patrones en mis proyectos. Refactoring Durante mi pasantía, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App Móvil Institucional. Este proyecto se realizó utilizando las tecnologías de Flutter y .NET. Fue una experiencia enriquecedora en la que pude aplicar mis conocimientos y trabajar en equipo.";
 
 const About = () => {
   return (
@@ -60,7 +60,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>Sobre mí</h2>
         <p className="large">{description}</p>
         <hr />
         <ul

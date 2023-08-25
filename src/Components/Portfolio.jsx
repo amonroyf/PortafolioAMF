@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Portafolio-2.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,35 +31,35 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "SOLIN, Gestiones Empresariales",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "SOLIN, un innovador software de gestión empresarial ERP, sirve como solución integral para simplificar y agilizar los procesos de la empresa. Mi papel en este proyecto de nivel empresarial consistió el desarrollo de sólidas aplicaciones CRUD en SOLIN. Mi experiencia en el manejo y la gestión eficiente de datos me permitió ofrecer soluciones eficaces a problemas empresariales complejos. Apliqué mis conocimientos especializados a diversos requisitos específicos del sector, creando soluciones a medida basadas en necesidades individuales.",
+    url: "https://solin.solin.com.co/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Esap App Móvil Institucional",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Durante mi pasantía, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App Móvil Institucional. Este proyecto se realizó utilizando las tecnologías de Flutter y .NET. Fue una experiencia enriquecedora en la que pude aplicar mis conocimientos y trabajar en equipo para crear una aplicación móvil institucional ESAP APP MÓVIL INSTITUCIONAL.",
+    url: "https://www.canva.com/design/DAFkp30S8HI/ldoHtcLyiDCP9AFsyP0Vvg/watch?utm_content=DAFkp30S8HI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
   },
   {
-    title: "My Resume Site",
+    title: "Mi sitio de currículum",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Creado a partir del taller de currículum de Microsoft y desplegado en páginas de GitHub. Incluye mi experiencia y habilidades de diseño",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub mi repositorio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Mi repositorio de GitHub contiene proyectos de desarrollo de software, incluidos proyectos de Angular, Flutter y .NET. También contiene proyectos de diseño, incluidos proyectos de Adobe XD y Canva.",
+    url: "https://github.com/amonroyf",
   },
 ];
 
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Portfolio</h2>
+      <h2 style={{ textAlign: "center" }}>Portafolio</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
