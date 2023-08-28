@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Me gusta mantenerme actualizado en las últimas tecnologías y actualmente estoy enfocado en aprender Angular, Flutter y .Net SOLIN Además, tengo un gran interés en aprender y aplicar diseño de patrones en mis proyectos. Refactoring Durante mi pasantía, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App Móvil Institucional. Este proyecto se realizó utilizando las tecnologías de Flutter y .NET. Fue una experiencia enriquecedora en la que pude aplicar mis conocimientos y trabajar en equipo.";
+  "Me gusta mantenerme actualizado en las últimas tecnologías y actualmente estoy enfocado en aprender Angular, Flutter y .Net Además, tengo un gran interés en aprender y aplicar diseño de patrones en mis proyectos.";
 
 const About = () => {
   return (
