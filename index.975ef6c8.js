@@ -27198,7 +27198,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "Me gusta mantenerme actualizado en las \xfaltimas tecnolog\xedas y actualmente estoy enfocado en aprender Angular, Flutter y .Net SOLIN Adem\xe1s, tengo un gran inter\xe9s en aprender y aplicar dise\xf1o de patrones en mis proyectos. Refactoring Durante mi pasant\xeda, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App M\xf3vil Institucional. Este proyecto se realiz\xf3 utilizando las tecnolog\xedas de Flutter y .NET. Fue una experiencia enriquecedora en la que pude aplicar mis conocimientos y trabajar en equipo.";
+ */ const detailOrQuote = "Me gusta mantenerme actualizado en las \xfaltimas tecnolog\xedas y actualmente estoy enfocado en aprender Angular, Flutter y .Net Adem\xe1s, tengo un gran inter\xe9s en aprender y aplicar dise\xf1o de patrones en mis proyectos.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28765,17 +28765,17 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "Esap App M\xf3vil Institucional",
-        description: "Durante mi pasant\xeda, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App M\xf3vil Institucional. Este proyecto se realiz\xf3 utilizando las tecnolog\xedas de Flutter y .NET. Fue una experiencia enriquecedora en la que pude aplicar mis conocimientos y trabajar en equipo para crear una aplicaci\xf3n m\xf3vil institucional ESAP APP M\xd3VIL INSTITUCIONAL.",
+        description: "Durante mi pasant\xeda, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App M\xf3vil Institucional. Este proyecto se realiz\xf3 utilizando las tecnolog\xedas de Flutter y .NET.",
         url: "https://www.canva.com/design/DAFkp30S8HI/ldoHtcLyiDCP9AFsyP0Vvg/watch?utm_content=DAFkp30S8HI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
     },
     {
-        title: "Mi sitio de curr\xedculum",
+        title: "Mi sitio de curr\xedculo",
         description: "Creado a partir del taller de curr\xedculum de Microsoft y desplegado en p\xe1ginas de GitHub. Incluye mi experiencia y habilidades de dise\xf1o",
         url: ""
     },
     {
         title: "GitHub mi repositorio",
-        description: "Mi repositorio de GitHub contiene proyectos de desarrollo de software, incluidos proyectos de Angular, Flutter y .NET. Tambi\xe9n contiene proyectos de dise\xf1o, incluidos proyectos de Adobe XD y Canva.",
+        description: "Mi repositorio de GitHub contiene proyectos de desarrollo de software.",
         url: "https://github.com/amonroyf"
     }, 
 ];
