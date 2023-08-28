@@ -39,11 +39,11 @@ const projectList = [
   {
     title: "Esap App Móvil Institucional",
     description:
-      "Durante mi pasantía, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App Móvil Institucional. Este proyecto se realizó utilizando las tecnologías de Flutter y .NET. Fue una experiencia enriquecedora en la que pude aplicar mis conocimientos y trabajar en equipo para crear una aplicación móvil institucional ESAP APP MÓVIL INSTITUCIONAL.",
+      "Durante mi pasantía, tuve la oportunidad de participar en el desarrollo del proyecto ESAP App Móvil Institucional. Este proyecto se realizó utilizando las tecnologías de Flutter y .NET.",
     url: "https://www.canva.com/design/DAFkp30S8HI/ldoHtcLyiDCP9AFsyP0Vvg/watch?utm_content=DAFkp30S8HI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
   },
   {
-    title: "Mi sitio de currículum",
+    title: "Mi sitio de currículo",
     description:
       "Creado a partir del taller de currículum de Microsoft y desplegado en páginas de GitHub. Incluye mi experiencia y habilidades de diseño",
     url: "",
@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "GitHub mi repositorio",
     description:
-      "Mi repositorio de GitHub contiene proyectos de desarrollo de software, incluidos proyectos de Angular, Flutter y .NET. También contiene proyectos de diseño, incluidos proyectos de Adobe XD y Canva.",
+      "Mi repositorio de GitHub contiene proyectos de desarrollo de software.",
     url: "https://github.com/amonroyf",
   },
 ];
